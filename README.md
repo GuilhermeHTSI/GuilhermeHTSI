@@ -1,5 +1,5 @@
 # About Me:
-  Hi, my name is Guilherme!<br>I'm from Brazil and currently studying at the Instituto Federal do Sudeste de Minas Gerais.<br><br>🎓 Right now, I'm focused on earning my diploma and deepening my knowledge in backend and software development.<br><br>    I'm proficient in C programming and currently learning Java.<br><br> I also have experience with web development basics, databases, and various other technologies.<br><br>I'm always looking to learn more and take on new challenges!
+  Hi, my name is Guilherme!<br>I'm from Brazil and currently studying at the Instituto Federal do Sudeste de Minas Gerais.<br><br> Right now, I'm focused on earning my diploma and deepening my knowledge in backend and software development.<br><br>    I'm proficient in C programming and currently learning Java.<br><br> I also have experience with web development basics, databases, and various other technologies.<br><br>I'm always looking to learn more and take on new challenges!
 
 
 # Tech Stack:
